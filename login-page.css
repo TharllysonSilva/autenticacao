@@ -78,4 +78,5 @@ html {
     background-color: #6254e4;
     cursor: pointer;
     outline: none;
+    align-items: center;
   }
