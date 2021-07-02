@@ -15,7 +15,7 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
     }
 })
-var data = "{\"Sender\":\"sender_id\",\"Receivers\":\"phone_number\",\"ContextRuleName\":\"rule_name\"}";
+/*var data = "{\"Sender\":\"sender_id\",\"Receivers\":\"phone_number\",\"ContextRuleName\":\"rule_name\"}";
 
   var xhr = new XMLHttpRequest();
 
@@ -29,4 +29,4 @@ var data = "{\"Sender\":\"sender_id\",\"Receivers\":\"phone_number\",\"ContextRu
   xhr.setRequestHeader("content-type", "application/json");
   xhr.setRequestHeader("auth-key", "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX");
 
-  xhr.send(data);
+  xhr.send(data);*/
