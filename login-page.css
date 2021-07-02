@@ -18,8 +18,8 @@ html {
   }
   
   #main-holder {
-    width: 40%;
-    height: 80%;
+    width: 30%;
+    height: 90%;
     display: grid;
     justify-items: center;
     align-items: center;
