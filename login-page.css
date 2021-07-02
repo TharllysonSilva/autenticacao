@@ -10,7 +10,11 @@ html {
     justify-items: center;
     align-items: center;
     background-color: #4336b8;
-    background-image: ;
+    background-image: url(Unifacema.JPG);
+    height: 800px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
   }
   
   #main-holder {
