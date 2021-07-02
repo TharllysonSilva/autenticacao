@@ -12,6 +12,7 @@ html {
     background-color: #4336b8;
     background-image: url(Unifacema.JPG);
     height: 800px; /* You must set a specified height */
+    size: 108px;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
