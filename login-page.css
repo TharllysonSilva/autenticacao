@@ -62,6 +62,7 @@ html {
   .login-form-field {
     border: none;
     border-bottom: 1px solid #3a3a3a;
+    align-items: center;
     margin-bottom: 10px;
     border-radius: 3px;
     outline: none;
