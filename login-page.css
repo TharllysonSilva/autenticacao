@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    height: 100%;
+    height: 80%;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
@@ -11,15 +11,15 @@ html {
     align-items: center;
     background-color: #4336b8;
     background-image: url(Unifacema.JPG);
-    height: 800px; /* You must set a specified height */
+    height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
   }
   
   #main-holder {
-    width: 50%;
-    height: 70%;
+    width: 40%;
+    height: 80%;
     display: grid;
     justify-items: center;
     align-items: center;
